@@ -1,4 +1,3 @@
-
 <h2 align="center">Hi!, i'm Marcilio Abreu!</h2>
 
 <div align="center">
@@ -9,7 +8,7 @@
   
 ## Hi
 
-"Meu nome é Marcilio Abreu, apaixonado por tecnologia, design. :blue_heart: Bacharel em publicidade de propaganda e cursos de front-end developer e designer.  :zap: Atualmente trabalhanco no Sistema Jornal do Commercio de Comunicação e Projetos freelancer. :handshake: Procuro me desenvolver como profissional dia a dia, traçando metas que me fazem sempre atualizado nas minhas áreas de interesse. :dart:"
+"Meu nome é Marcilio Abreu, apaixonado por tecnologia, design. :blue_heart: Bacharel em publicidade de propaganda e cursos de front-end developer e designer.  :zap: Atualmente trabalho no Sistema Jornal do Commercio de Comunicação e Projetos freelancer. :handshake: Procuro me desenvolver como profissional dia a dia, traçando metas que me fazem sempre atualizado nas minhas áreas de interesse. :dart:"
 
 :zap: Minha Habilidades:
 
@@ -28,7 +27,6 @@
   </p>
 </ul>
 
-- Onde Pode me Encontrar:<br><br>
+ Onde Pode me Encontrar:<br><br>
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcilio-abreu-bba21a66/)](https://www.linkedin.com/in/marcilio-abreu-bba21a66/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=marcilioabreu@gmail.com)](mailto:marcilioabreu@gmail.com)
-
