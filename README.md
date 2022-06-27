@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<p align="left">Sou apaixonado por tecnologia, design. 💙 Bacharel em publicidade de propaganda e cursos de front-end developer e designer. ⚡ Atualmente trabalho no Sistema Jornal do Commercio de Comunicação e Projetos freelancer. 🤝 Procuro me desenvolver como profissional dia a dia, traçando metas que me fazem sempre atualizado nas minhas áreas de interesse.</p>
+<p align="left">Sou apaixonado por tecnologia, design. 💙 Bacharel em publicidade e propaganda e cursos de front-end developer e designer. ⚡ Atualmente trabalho no Sistema Jornal do Commercio de Comunicação e Projetos freelancer. 🤝 Procuro me desenvolver como profissional dia a dia, traçando metas que me fazem sempre atualizado nas minhas áreas de interesse.</p>
 
 ###
 
