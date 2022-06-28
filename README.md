@@ -75,6 +75,3 @@
   </a>
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/MarcilioAbreuJC/MarcilioAbreuJC/blob/output/snake.svg" alt="Snake animation" />
